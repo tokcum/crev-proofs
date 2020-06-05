@@ -1,0 +1,27 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-06-05T19:07:59.370417151+02:00"
+from:
+  id-type: crev
+  id: rX9GS3dvpFiRV1te-oqCv9yJdQAdYr3MmvfBSIYnlQ4
+  url: "https://github.com/tokcum/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: version_check
+  version: 0.9.2
+  revision: b5caeeb14f2e2aa22aed56cf3fac85f8e44e9daf
+  digest: JOSCA1NYCzuo2mhRFGw5Zj9SeHJpF7M9H5PeWNyqRoQ
+review:
+  thoroughness: low
+  understanding: high
+  rating: positive
+alternatives:
+  - source: "https://crates.io/crates/rustc_version"
+    name: rustc_version
+comment: |-
+  No dependencies. Thorough documentation. Good test coverage.
+----- SIGN CREV PROOF -----
+3uI7uq-XlDT_loFSQ3uuQP3Inu0AHgPmapYiDcMJyc6_XBP6UM1V91dItE2z6zlszgpymNgDiOUGZtCO8pQ0Bw
+----- END CREV PROOF -----
+
