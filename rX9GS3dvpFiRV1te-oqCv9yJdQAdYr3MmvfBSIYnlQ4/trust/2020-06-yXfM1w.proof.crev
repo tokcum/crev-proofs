@@ -1,0 +1,18 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-06-05T17:01:15.149217016+02:00"
+from:
+  id-type: crev
+  id: rX9GS3dvpFiRV1te-oqCv9yJdQAdYr3MmvfBSIYnlQ4
+  url: "https://github.com/tokcum/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+trust: medium
+comment: |-
+  Get started
+----- SIGN CREV PROOF -----
+2cCdBwMVpWoXG0BUIDaoy_RiaWoKcc7duJxiS75L-Ga7OpLNCI_rbr6X62oE1LvxTMkk8FwVWkhCr8sN7eDvCg
+----- END CREV PROOF -----
+
