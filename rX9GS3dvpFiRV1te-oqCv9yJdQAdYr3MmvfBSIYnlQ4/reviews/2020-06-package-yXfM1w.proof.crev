@@ -25,3 +25,27 @@ comment: |-
 3uI7uq-XlDT_loFSQ3uuQP3Inu0AHgPmapYiDcMJyc6_XBP6UM1V91dItE2z6zlszgpymNgDiOUGZtCO8pQ0Bw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-06-06T17:32:15.505563958+02:00"
+from:
+  id-type: crev
+  id: rX9GS3dvpFiRV1te-oqCv9yJdQAdYr3MmvfBSIYnlQ4
+  url: "https://github.com/tokcum/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: proc-macro-nested
+  version: 0.1.4
+  revision: d29a20e44207f915f42e6d1668d2864b0152e5a8
+  digest: F5giTEAkaYRd8-56JYeRLmyK30MK1kgrhsYoV_F_EMU
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  No dependencies. Thorough documentation.
+----- SIGN CREV PROOF -----
+oN5u9dKMpN2tC83JqNpUkS5JeKlpbdYOCoSAse1mMC9m3C7aMCMY3K7sBzswL52wuJbgleAjQmMIBfhcGjh_CQ
+----- END CREV PROOF -----
+
